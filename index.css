@@ -1,0 +1,64 @@
+* {
+  margin:0;
+  padding:0;
+  
+}
+
+
+#top {
+  margin:0 auto;
+  width:100%;
+  font-size:220%;
+  background-color:blue;
+   text-align:center;
+  }
+#center {
+ background-color:grey;
+  width:100%;
+  hieght:100%;
+     text-align:center;
+  margin: 0 auto;
+  padding:0 auto;
+  border: 0 auto;
+}
+#info {
+   background-color:green;
+  width:50%;
+  hieght:auto; 
+     text-align:center;
+  float:left;
+}
+#info p {
+ font-size:;
+  padding:3.66%;
+}
+
+#fotos {
+   background-color:#75c920;
+  width:50%;
+  hieght:auto;
+     text-align:center;
+   float:right;
+}
+
+
+#list{
+    background-color:pink;
+  width:100%;
+  hieght:100%;
+     text-align:center;
+   margin: 0 auto;
+  padding:0 auto;
+  border: 0 auto;
+}
+#list h2{
+    background-color:salmon;
+  width:100%;
+  hieght:100%;
+   margin: 0 auto;
+  padding:0 auto;
+  border: 0 auto;
+}
+#list p {
+  padding:30px;
+}
