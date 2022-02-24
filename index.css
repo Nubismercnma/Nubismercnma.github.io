@@ -13,6 +13,7 @@
   background-color:silver;
    text-align:center;
   padding:7px;
+
   }
 #top h1 {
   background-color:#637991;
@@ -26,6 +27,7 @@
   margin: 0 auto;
   padding:7px;
   border: 0 auto;
+  display:flex;
 }
 #info {
    background-color:#8aa2bd;
@@ -62,6 +64,7 @@
    margin: 0 auto;
   padding:7px;
   border: 0 auto;
+  display:flex;
 }
 #sus {
   background-color:#8aa2bd;
